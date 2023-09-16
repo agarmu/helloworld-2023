@@ -1,5 +1,5 @@
-import SearchBar from '@/component/searchBar';
-import Course from '@/component/course';
+import SearchBar from '@/app/searchBar';
+import Course from '@/app/course';
 
 /**
  *
@@ -28,7 +28,7 @@ export default function Home() {
         <div className='items-center'>
           <h1 className='text-blue-500 font-bold text-5xl'>Purdue Class Finder</h1>
         </div>
-        <SearchBar/>
+          <SearchBar/>
         {
           defaultCourses.map((c) => (
             <Course key="{c}" course={c}/>
