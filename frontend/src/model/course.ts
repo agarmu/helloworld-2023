@@ -1,9 +1,27 @@
-import Section from '@/model/section'
-export default class Course {
+export default class CourseModel {
     id: string;
     courseNumber: number;
     title: string;
     credits: number;
     description: string;
-    sections: Array<Section>;
+    constructor(id: string,
+    courseNumber: number,
+    title: string,
+    credits: number,
+    description: string,) {
+        this.id = id;
+        this.courseNumber = courseNumber;
+        this.title = title;
+        this.credits = credits;
+        this.description = description;
+    }
+    parse(data: any): CourseModel {
+        return new CourseModel(
+            data["Id"],
+            data["Number"],
+            data["Title"],
+            data["CreditHours"],
+            data["Description"]
+        )
+    }
 }
