@@ -1,6 +1,10 @@
 import SearchBar from './searchBar';
 import Course from './course';
 
+/**
+ *
+ * @type {[{number: number, credits: number, dept: string}]}
+ */
 let defaultCourses = [
   {
     dept: "CS",
@@ -12,6 +16,11 @@ let defaultCourses = [
     number: 26100,
     credits: 4
   },
+    {
+        dept: "MA",
+        number: 27101,
+        credits: 4
+    },
 ]
 export default function Home() {
   return (
