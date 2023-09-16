@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import Filter from '@/app/filter';
 import SearchBar from '@/app/searchBar';
-import Course from '@/app/course';
+import Courses from '@/app/courses';
 import { useState, useEffect } from 'react'
 import { getCourses} from "@/app/api/courses/route";
 import { sprintf } from 'sprintf-js'
@@ -41,11 +41,7 @@ export default function Home() {
         </div>
         </div>
           <SearchBar/>
-          {
-          courseData.map((c) => (
-            <Course key="{c}" number={c.courseNumber} credits={c.credits}/>
-          ))
-        }
+          <Courses courses={courseData}/>
       </main>
   )
 }
