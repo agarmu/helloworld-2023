@@ -1,0 +1,109 @@
+{
+  "@odata.context": "http://api.purdue.io/odata/$metadata#Courses",
+  "value": [
+    {
+      "Id": "f660d4a5-1a6a-4540-b636-099e8561a8bb",
+      "Number": "26100",
+      "SubjectId": "0968d786-8227-43da-9306-4629092945ab",
+      "Title": "Organic Chemistry",
+      "CreditHours": 3.0,
+      "Description": "Evening Exams Required."
+    },
+    {
+      "Id": "8240e113-0b5a-4f25-9402-cace9d8d2700",
+      "Number": "26100",
+      "SubjectId": "cf61481b-80e2-40ab-9e34-d32a069595b6",
+      "Title": "Introduction To Digital Video Production",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "3d1841ba-d3a2-4caf-8850-aa4f7e5fb14f",
+      "Number": "26100",
+      "SubjectId": "78a45cc2-08a2-4a73-bf56-e8e97be48afa",
+      "Title": "Foundations Of Cinema Production",
+      "CreditHours": 3.0,
+      "Description": "."
+    },
+    {
+      "Id": "8e90de3b-3da4-4c55-b03b-28334daec301",
+      "Number": "26100",
+      "SubjectId": "3634f493-2f65-444b-a627-56d0f682476a",
+      "Title": "Introduction To The Linguistic Study Of Foreign Languages",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "e90d70ba-4188-4dad-a439-5451d1ce19b1",
+      "Number": "26100",
+      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
+      "Title": "Multivariate Calculus",
+      "CreditHours": 4.0,
+      "Description": "Supplemental Instruction study sessions will be offered for this course.  Evening Exams Required."
+    },
+    {
+      "Id": "9a4981e1-68a3-4f06-b569-80d29c2049ce",
+      "Number": "26100",
+      "SubjectId": "f2afb64d-bfdc-4428-b7bd-5dfac3eb6ee2",
+      "Title": "Fundamentals Of Music",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "9cb886c5-2efe-45e4-980f-acd9b98c74d1",
+      "Number": "26100",
+      "SubjectId": "02dde164-89b2-4f13-b01e-5f21873ca109",
+      "Title": "Introduction To Supply Chain Management",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "e9544bc5-1b04-448a-9232-53d87f08f628",
+      "Number": "26100",
+      "SubjectId": "78a45cc2-08a2-4a73-bf56-e8e97be48afa",
+      "Title": "Foundations Of Cinema",
+      "CreditHours": 3.0,
+      "Description": "allow all majors during open enrollment."
+    },
+    {
+      "Id": "6c7452f4-aaa2-4e86-971a-f2abc6fb71b0",
+      "Number": "26100",
+      "SubjectId": "2061f8c4-68b2-4e11-9e29-8d3db0ff2289",
+      "Title": "Applied Anatomy And Kinesiology",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "0907ea4c-7fbb-43f8-bb94-0a9eba4806e5",
+      "Number": "26100",
+      "SubjectId": "78a45cc2-08a2-4a73-bf56-e8e97be48afa",
+      "Title": "Technical Video Production I",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "9b8d61e8-71e9-4c35-ba8b-e465f26331cc",
+      "Number": "26100",
+      "SubjectId": "1e15d35d-6ede-416e-9312-a99f0c65ad69",
+      "Title": "Large Animal Health Management",
+      "CreditHours": 2.0,
+      "Description": ""
+    },
+    {
+      "Id": "3c3fb00e-6260-48da-bda1-4a5ca460ded4",
+      "Number": "26100",
+      "SubjectId": "f425f404-2136-4870-a6e8-c436e8d6678b",
+      "Title": "Contact Improvisation",
+      "CreditHours": 2.0,
+      "Description": ""
+    },
+    {
+      "Id": "2ac05799-6355-4f51-bec7-a2494107c6fb",
+      "Number": "26100",
+      "SubjectId": "0968d786-8227-43da-9306-4629092945ab",
+      "Title": "Organic Chemistry I",
+      "CreditHours": 3.0,
+      "Description": "Evening Exams Required."
+    }
+  ]
+}

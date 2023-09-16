@@ -1,5 +1,6 @@
 import sys
 import requests as req
+import json
 
 class getData():
     url = "https://api.purdue.io/odata/Courses?$filter="
@@ -38,4 +39,12 @@ class getData():
 
     # print(url)
     r = req.get(url)
-    print(r.content)
+    # print(r.json())
+    API_Data = r.json()
+    json_formatted_str = json.dumps(API_Data, indent=2)
+    print(json_formatted_str)
+
+    with open('Output.json', 'w') as json_file:
+        json_file.write(json.dumps(API_Data, indent=2))
+
+    json_file.close()
