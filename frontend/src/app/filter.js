@@ -5,18 +5,7 @@ import {sprintf} from "sprintf-js";
 import {sortBy} from 'lodash';
 export default Filter
 
-function Filter() {
-    const [data, setData] = useState([])
-    const [isLoading, setLoading] = useState(true)
-
-    useEffect(() => {
-        getSubject()
-            .then((data) => {
-                let sorted = sortBy(data, (x) => x.abbreviation);
-                setData(sorted)
-                setLoading(false)
-            })
-    }, [])
+function Filter({subjects}) {
     return (
      <div className="w-full-flex">
       <div>
@@ -38,7 +27,7 @@ function Filter() {
                  className="block w-3000 border rounded border-gray-500 px-4 py-2 focus:outline-none text-black 500">
                  <option selected>Subject</option>
                  {
-                     data.map((s) => (
+                     subjects.map((s) => (
                          <option key={sprintf("subject-%s", s.abbreviation)} value={s.abbreviation}>{s.abbreviation}</option>
                      ))
                  }
