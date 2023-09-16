@@ -14,7 +14,6 @@ export default function Home() {
 useEffect(() => {
         getCourses()
         .then((data) => {
-            console.log(data)
             setData(data)
             setLoading(false)
         })
@@ -28,13 +27,6 @@ useEffect(() => {
         </div>
         </div>
           <SearchBar/>
-          <ul>
-              {
-                  [1,2,3,4,5].map((x) => (
-                      <li key={sprintf("credit-%02d", x)}>{x} Credits</li>
-                  ))
-              }
-          </ul>
           {
           data.map((c) => (
             <Course key="{c}" number={c.courseNumber} credits={c.credits}/>
