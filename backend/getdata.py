@@ -2,10 +2,12 @@ import sys
 import requests as req
 import json
 
+
 class getData():
-    url = "https://api.purdue.io/odata/Courses?$filter="
     count = 0
     arguments = sys.argv
+    url = "https://api.purdue.io/odata/Courses?$filter="
+
 
     if 'Title' in arguments:
         title = input("Enter title: ")
@@ -48,3 +50,9 @@ class getData():
         json_file.write(json.dumps(API_Data, indent=2))
 
     json_file.close()
+
+# elif sys.argv[0] == 'Subjects':
+#     url = "https://api.purdue.io/odata/Subjects?$select"
+#     r = req.get(url)
+#     json_formatted_str = json.dumps(API_Data, indent=2)
+#     print(json_formatted_str)
