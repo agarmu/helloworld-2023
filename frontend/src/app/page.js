@@ -1,17 +1,44 @@
 import Image from 'next/image'
-import SearchBar from './searchBar';
-import Course from './course';
-import Filter from './filter';
+import Filter from '@/app/filter';
+import SearchBar from '@/app/searchBar';
+import Course from '@/app/course';
 
+/**
+ *
+ * @type {[{number: number, credits: number, dept: string}]}
+ */
+let defaultCourses = [
+  {
+    dept: "CS",
+    number: 18000,
+    credits: 4
+  },
+  {
+    dept: "MA",
+    number: 26100,
+    credits: 4
+  },
+    {
+        dept: "MA",
+        number: 27101,
+        credits: 4
+    },
+]
 export default function Home() {
   return (
       <main className="min-h-screen justify-between p-24 bg-white">
+        <div className='items-center'>
           <h1 className='text-blue-500 font-bold text-5xl'>Purdue Class Finder</h1>
-        <SearchBar/>
-        <Course dept="CS" number={18000} credits={4}/>
         <div>
           <Filter/>
         </div>
+        </div>
+          <SearchBar/>
+        {
+          defaultCourses.map((c) => (
+            <Course key="{c}" course={c}/>
+          ))
+        }
       </main>
   )
 }
