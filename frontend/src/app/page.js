@@ -1,5 +1,5 @@
-import SearchBar from './searchBar';
-import Course from './course';
+import SearchBar from '@/component/searchBar';
+import Course from '@/component/course';
 
 /**
  *

@@ -5,7 +5,7 @@ export default Course
 /**
  *
  * @param {{dept: string, number: number, credits: number}} course Contains metadata regarding the course
- * @returns {JSX.Element} Course block component
+ * @returns {JSX.Element} Subject block component
  */
 function Course({course}) {
     let {dept, number, credits} = course;
