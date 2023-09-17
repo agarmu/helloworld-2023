@@ -1,0 +1,21 @@
+{
+  "@odata.context": "http://api.purdue.io/odata/$metadata#Courses",
+  "value": [
+    {
+      "Id": "e90d70ba-4188-4dad-a439-5451d1ce19b1",
+      "Number": "26100",
+      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
+      "Title": "Multivariate Calculus",
+      "CreditHours": 4.0,
+      "Description": "Supplemental Instruction study sessions will be offered for this course.  Evening Exams Required."
+    },
+    {
+      "Id": "19e6b6da-63eb-42a2-853e-e27555d78ca6",
+      "Number": "27101",
+      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
+      "Title": "Honors Multivariate Calculus",
+      "CreditHours": 5.0,
+      "Description": "Evening Exams Required."
+    }
+  ]
+}
