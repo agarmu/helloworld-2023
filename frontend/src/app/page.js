@@ -27,10 +27,10 @@ export default function Home() {
         getCourses(currentSubject)
             .then((data) => {
                 let filteredData;
-                if (currentCredits == -1) {
+                if (currentCredits === -1) {
                   filteredData = data;
                 } else {
-                  filteredData = data.filter(x => x.credits == currentCredits)
+                  filteredData = data.filter(x => x.credits === currentCredits)
                 }
                 setCourseData(filteredData)
             })
