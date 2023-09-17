@@ -4,24 +4,28 @@ export default class CourseModel {
     title: string;
     credits: number;
     description: string;
+    subject: string;
     constructor(id: string,
     courseNumber: number,
     title: string,
     credits: number,
-    description: string,) {
+    description: string,
+    subject: string) {
         this.id = id;
         this.courseNumber = courseNumber;
         this.title = title;
         this.credits = credits;
         this.description = description;
+        this.subject = subject;
     }
-    parse(data: any): CourseModel {
+    parse(data: any, subject: string): CourseModel {
         return new CourseModel(
             data["Id"],
             data["Number"],
             data["Title"],
             data["CreditHours"],
-            data["Description"]
+            data["Description"],
+            subject
         )
     }
 }

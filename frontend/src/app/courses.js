@@ -15,7 +15,7 @@ function Courses({courses}) {
                             key={"course-" + c.id}
                         >
                             <p>{}{' '}
-                                <span className="text-gray-500">{mNumber}</span>
+                                <span className="text-orange-300">{c.subject}</span>&nbsp;<span className="text-gray-500">{mNumber}</span>
                                 <span className="text-gray-300 group-hover:text-gray-400">{sprintf('%02d', sNumber)}</span>:&nbsp;
                                 <span className="text-blue-900">{c.title}</span>
                             </p>
