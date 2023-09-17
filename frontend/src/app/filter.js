@@ -5,9 +5,9 @@ export default Filter
 function Filter({subjects, currentSubject, changeSubject, currentCredits, changeCredits}) {
     return (
      <div className="w-full-flex">
-        <div>
-            <select
-                 className="block w-3000 border rounded border-gray-500 px-4 py-2 focus:outline-none text-black 500"
+        <div class = "relative">
+            <select 
+                 className="absolute right-0 block w-3000 border rounded border-gray-500 px-4 py-2 focus:outline-none text-black 500"
                  value={currentCredits}
                  onChange={changeCredits}
              >
