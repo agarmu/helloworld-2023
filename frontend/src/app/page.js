@@ -7,9 +7,7 @@ import { useState, useEffect } from 'react'
 import { getCourses, getSubjects } from "@/app/api";
 import {sortBy} from "lodash";
 export default function Home() {
-    const [subjectsData, setSubjectsData] = useState([])
-    const [isSubjectsLoading, setSubjectsLoading] = useState(true)
-
+    const [subjectsData, setSubjectsData] = useState([])j
     const [courseData, setCourseData] = useState([])
 
     const [currentSubject, setCurrentSubject] = useState('AAE')
@@ -28,7 +26,6 @@ export default function Home() {
             .then((data) => {
                 let sorted = sortBy(data, (x) => x.abbreviation);
                 setSubjectsData(sorted)
-                setSubjectsLoading(false)
             })
     }, [])
 
