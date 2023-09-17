@@ -46,9 +46,9 @@ export default function Home() {
   return (
       <main className="min-h-screen justify-between p-24 bg-white">
         <div className='items-center'>
-          <h1 className='text-blue-500 font-bold text-5xl'>Purdue Class Finder</h1>
+          <h1 className='text-blue-500 font-bold text-5xl'>Purdue Class Inventory</h1>
 
-          
+
           <div>
             <Filter subjects={subjectsData} currentSubject={currentSubject} changeSubject={onSubjectChange} currentCredits={currentCredits} changeCredits={onCreditChange}/>
           </div>
