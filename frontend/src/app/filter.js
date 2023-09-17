@@ -26,6 +26,7 @@ function Filter({subjects, currentSubject, changeSubject, currentCredits, change
                  value={currentSubject}
                  onChange={changeSubject}
              >
+                 <option key="subject-all" value={''}>All Subjects</option>
                  {
                      subjects.map((s) => (
                          <option key={"subject-" + s.abbreviation} value={s.abbreviation}>{s.abbreviation}</option>
