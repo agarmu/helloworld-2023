@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server'
 
-export default async function GET() {
+export async function GET(request: Request) {
     const { searchParams } = new URL(request.url)
     const subjects = searchParams.get('subject').split('+')
     const credits = searchParams.get('credit').split('+').map(parseInt)
