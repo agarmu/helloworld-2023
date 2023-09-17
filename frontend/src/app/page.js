@@ -7,7 +7,7 @@ import { useState, useEffect } from 'react'
 import { getCourses, getSubjects } from "@/app/api";
 import {sortBy} from "lodash";
 export default function Home() {
-    const [subjectsData, setSubjectsData] = useState([])j
+    const [subjectsData, setSubjectsData] = useState([])
     const [courseData, setCourseData] = useState([])
 
     const [currentSubject, setCurrentSubject] = useState('AAE')
