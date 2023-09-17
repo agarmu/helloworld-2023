@@ -2,7 +2,7 @@ import {sprintf} from "sprintf-js";
 export default Courses;
 function Courses({courses}) {
     return (
-        <div className="sm:m-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
+        <div className="sm:m-3 md:m-6 lg:m-10 xl:m-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-4">
             {
                 courses.map((c) => {
                     let sNumber = c.courseNumber % 100;

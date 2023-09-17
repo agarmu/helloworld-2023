@@ -71,7 +71,7 @@ export default function Home() {
         setLookup(dictionary)
     }, [subjectsData]);
   return (
-      <main className="min-h-screen justify-between p-24 bg-white">
+      <main className="min-h-screen justify-between sm:p-10 md:p-15 lg:p-24 xl:p-30 2xl:p-35 bg-white">
         <div className='items-center'>
             <ErrorModal open={selectionStatus} setOpen={setSelectionStatus}/>
           <h1 className='text-blue-500 font-bold text-5xl'>Purdue Class Inventory</h1>

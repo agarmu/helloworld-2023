@@ -4,10 +4,9 @@ export default Filter
 
 function Filter({subjects, currentSubject, changeSubject, currentCredits, changeCredits}) {
     return (
-     <div className="w-full-flex">
-        <div class = "relative">
-            <select 
-                 className="absolute right-0 block w-3000 border rounded border-gray-500 px-4 py-2 focus:outline-none text-black 500"
+     <div className="flex flex-col items-center justify-center text-center m-2">
+            <select
+                 className="block border rounded border-gray-500 p-2 focus:outline-none text-black 500 m-2"
                  value={currentCredits}
                  onChange={changeCredits}
              >
@@ -18,11 +17,8 @@ function Filter({subjects, currentSubject, changeSubject, currentCredits, change
                      ))
                  }
              </select>
-
-        </div>
-         <div>
              <select
-                 className="block w-3000 border rounded border-gray-500 px-4 py-2 focus:outline-none text-black 500"
+                 className="block border rounded border-gray-500 p-2 focus:outline-none text-black 500 m-2"
                  value={currentSubject}
                  onChange={changeSubject}
              >
@@ -33,7 +29,6 @@ function Filter({subjects, currentSubject, changeSubject, currentCredits, change
                      ))
                  }
              </select>
-         </div>
      </div>
     )
 }
