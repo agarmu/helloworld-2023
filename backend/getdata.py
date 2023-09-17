@@ -51,9 +51,19 @@ class getData():
     # json_formatted_str = json.dumps(API_Data, indent=2)
     # print(json_formatted_str)
 
+    # Dumps the output of the query to Output.json
     with open('Output.json', 'w') as json_file:
         json_file.write(json.dumps(API_Data, indent=2))
 
-    # id_abbreviation_dict = Search.create_id_abbreviation_dict()
+    id_abbreviation_dict = Search.create_id_abbreviation_dict()
+
+    for subject in API_Data['value']:
+        if id_abbreviation_dict['Id'] == subject['value']['Id']:
+            subject['value']['Id'] = id_abbreviation_dict['Abbreviation']
+
+
+    with open('Output.json', 'w') as json_file:
+        json_file.write(json.dumps(API_Data, indent=2))
+
 
     json_file.close()
