@@ -1,13 +1,23 @@
 import sys
 import requests as req
 import json
-
+from search import *
 
 class getData():
     count = 0
     arguments = sys.argv
     url = "https://api.purdue.io/odata/Courses?$filter="
 
+    def preserve_context_search_and_replace(file_path, search_word, replace_word):
+        with open(file_path, 'r') as file:
+            file_contents = file.read()
+
+            pattern = re.compile(rf'\b{re.escape(search_word)}\b', re.IGNORECASE)
+            updated_contents = pattern.sub(lambda match: match.group().replace(search_word, replace_word),
+                                           file_contents)
+
+        with open(file_path, 'w') as file:
+            file.write(updated_contents)
 
     if 'Title' in arguments:
         title = input("Enter title: ")
@@ -46,37 +56,27 @@ class getData():
     #print(API_Data)
     # data = json.loads(API_Data)
 
-    j = 0
-    for i in API_Data:
-        id = API_Data['value'][j]['SubjectId']
-        print(id)
-        j+=1
-
-
     # print(API_Data['value'][0]['SubjectId'])
 
     # json_formatted_str = json.dumps(API_Data, indent=2)
     # print(json_formatted_str)
 
-
     with open('Output.json', 'w') as json_file:
         json_file.write(json.dumps(API_Data, indent=2))
 
-    subject_names = {}
-    with open('Subjects.json', 'r') as f:
-        data = json.loads(f.read())
-        print(data['value'][0]['Id'])
-        print(data['value'][0]['Abbreviation'])
+    j = 0
+    for i in API_Data:
+        id = API_Data['value'][j]['SubjectId']
+        filepath = "Output.json"
+        search_word = "old"
+        replace_word = "new"
 
-    l = 0
-    for k in data:
-        subject_id = data['value'][l]['Id']
-        subject_name = data['value'][l]['Abbreviation']
+        # Create a dictionary with Id as the key and Abbreviation as the value
+        id_abbreviation_dict = Search.create_id_abbreviation_dict()
 
-        subject_names[subject_id] = subject_name
-        l += 1
 
-    print(subject_names)
+
+        j += 1
 
     json_file.close()
 

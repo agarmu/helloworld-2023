@@ -2,1099 +2,667 @@
   "@odata.context": "http://api.purdue.io/odata/$metadata#Courses",
   "value": [
     {
-      "Id": "893b204e-616d-42bb-bf7b-49689878bdac",
-      "Number": "51500",
-      "SubjectId": "7c0ec82f-fe5d-466a-8816-db7d85a79ee8",
-      "Title": "Numerical Linear Algebra",
-      "CreditHours": 3.0,
-      "Description": "Students registering for this course must contact the Engineering Professional Education office \u2013 http://proed.purdue.edu"
+      "Id": "f498f753-66c1-46b7-a375-db2a6f923285",
+      "Number": "48100",
+      "SubjectId": "753684e4-5cdd-425e-b41f-0dbfdf7666bf",
+      "Title": "Contemporary Issues in Animal Sciences",
+      "CreditHours": 1.0,
+      "Description": ""
     },
     {
-      "Id": "ea42d0c8-f3f0-467c-9202-5ab2ed72e765",
-      "Number": "50300",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Abstract Algebra",
+      "Id": "73d8e5b2-8529-414d-bb07-a060a29808ee",
+      "Number": "30700",
+      "SubjectId": "c96eface-98f3-46a9-b2ff-a1970bf812f2",
+      "Title": "The Development Of Contemporary Anthropological Theory",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "e5398b6c-55bf-4f8d-b8bc-b05a8924ce33",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics Algebra & Number Theory",
+      "Id": "06bb9ef7-cb75-48e6-bfc1-dc2da2aef8c8",
+      "Number": "29202",
+      "SubjectId": "45a1484e-9d36-41e5-81d0-ff7afc57dc03",
+      "Title": "Contemporary Issues In Civil Engineering",
+      "CreditHours": 2.0,
+      "Description": ""
+    },
+    {
+      "Id": "166549aa-8e30-4e41-a13f-a02b4915fb4e",
+      "Number": "41101",
+      "SubjectId": "dd53ab61-9ded-4e6b-9665-fa7de9d9151d",
+      "Title": "Contemporary Problems In Applied Computer Graphics I",
+      "CreditHours": 2.0,
+      "Description": ""
+    },
+    {
+      "Id": "1b375a7a-7f31-41ee-8bb3-ddf73856a55e",
+      "Number": "58900",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary Rhetorical Theory",
+      "CreditHours": 1.0,
+      "Description": ""
+    },
+    {
+      "Id": "48c0add6-7a11-4770-9449-161c3add3326",
+      "Number": "24300",
+      "SubjectId": "02dde164-89b2-4f13-b01e-5f21873ca109",
+      "Title": "Contemporary Thought Of Minorities In Management",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "8d3de39c-bf47-4b13-a33a-99937850fa21",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Abstract Algebra",
+      "Id": "c6930770-f0b2-4caa-9508-d1d8a63cf761",
+      "Number": "52400",
+      "SubjectId": "75894975-0bc1-44b6-8151-8c67503cc656",
+      "Title": "Contemporary Ethical Theory",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "55115781-182f-43fc-816b-3b77a594abfc",
-      "Number": "48400",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Seminar On Teaching College Algebra And Trigonometry",
+      "Id": "045f3f95-b1b3-4459-a618-3146f9e135d8",
+      "Number": "60200",
+      "SubjectId": "5d79b82c-4a6f-4f6a-a8c3-8de569d39a40",
+      "Title": "Contemporary Sociological Theories",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "6bf6c5ae-f90e-46c7-a00d-6408db32eef8",
-      "Number": "45300",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Elements Of Algebra I",
+      "Id": "767389ab-c8a1-4b67-9c29-7df0d3cfe08c",
+      "Number": "22500",
+      "SubjectId": "fd09d74e-57b9-4a18-9687-bccf3af2720a",
+      "Title": "Contemporary Women's Health",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "d50a0cd3-3184-443c-a1c2-a90fd6fd8cc1",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Point-Set & Algebraic Topology",
+      "Id": "e8b52045-2eb5-4e2d-9bec-c75ac348cc5a",
+      "Number": "45100",
+      "SubjectId": "1b3f0b36-c186-44ae-b09b-9c1a56e52770",
+      "Title": "Contemporary Topics In Life Skills",
+      "CreditHours": 1.0,
+      "Description": ""
+    },
+    {
+      "Id": "4177a843-eb98-44f2-9311-35517a4c5001",
+      "Number": "30701",
+      "SubjectId": "81ebef7c-c00a-4f71-b678-2cb9a1368717",
+      "Title": "History Of Contemporary Photography",
+      "CreditHours": 3.0,
+      "Description": "Evening"
+    },
+    {
+      "Id": "a3f95d0a-e980-4280-befe-e39bb0155d0f",
+      "Number": "38400",
+      "SubjectId": "81ebef7c-c00a-4f71-b678-2cb9a1368717",
+      "Title": "Contemporary Art",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "8a3be273-31e6-44c5-94fc-93e584130d9a",
-      "Number": "51100",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linear Algebra With Applications",
+      "Id": "fbe3f2c4-18b8-4d7f-9d50-27f2485c0459",
+      "Number": "41201",
+      "SubjectId": "dd53ab61-9ded-4e6b-9665-fa7de9d9151d",
+      "Title": "Contemporary Problems In Applied Computer Graphics II",
+      "CreditHours": 2.0,
+      "Description": ""
+    },
+    {
+      "Id": "9f4850e8-73a7-4a8a-af3a-6b3ae9553de2",
+      "Number": "62300",
+      "SubjectId": "46e99ea9-bed4-4d29-bd24-94729cc1a4f7",
+      "Title": "Contemporary Computer Technology Problems",
+      "CreditHours": 3.0,
+      "Description": "This course has been identified for the Spring 2021 Online Catalog that will serve students who are pursuing the fully online option. The fully online option serves students who cannot or choose not to come to campus for Spring 2021."
+    },
+    {
+      "Id": "dc9d35b1-c166-4277-b7b8-cd7dc58ebc6a",
+      "Number": "37700",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Modern And Contemporary Poetry",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "6fec2644-2522-4187-867c-31a3b45584fb",
-      "Number": "55700",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Abstract Algebra I",
+      "Id": "325db51e-b66a-4055-8806-d7f3c7a31e9f",
+      "Number": "59700",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary Black Feminist Literature",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "a105ca4b-aa8e-4021-9a85-44c06fae5abd",
-      "Number": "45000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebra Honors",
+      "Id": "dc89e703-3638-4e09-abf9-90d57e2f5770",
+      "Number": "59400",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary Poetry",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "23795d38-17d7-4bcb-b742-ffe7129c018e",
-      "Number": "55300",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Introduction To Abstract Algebra",
+      "Id": "0c5c21a9-d2c0-418a-b9b1-bc1508955fe9",
+      "Number": "33200",
+      "SubjectId": "63eb2b77-109e-4c6e-a708-822dfb590ce7",
+      "Title": "Stress And Coping In Contemporary Families",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "16760988-e401-4912-af77-41d24d74210e",
-      "Number": "55400",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linear Algebra",
+      "Id": "a2697119-5408-4a1b-b7de-515f8de982f3",
+      "Number": "24200",
+      "SubjectId": "02dde164-89b2-4f13-b01e-5f21873ca109",
+      "Title": "Contemporary Problems In Personal Finance For Minorities",
+      "CreditHours": 3.0,
+      "Description": "Only students with a major in Krannert School of Management can register for this class through December 14th. Any remaining spaces will be released on December 14th."
+    },
+    {
+      "Id": "3baedb8e-d019-4209-be36-fdef0395f695",
+      "Number": "59000",
+      "SubjectId": "75894975-0bc1-44b6-8151-8c67503cc656",
+      "Title": "Contemporary Human Rights",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "91c7fdc8-5b5a-4882-8e66-e9c4bd119fe3",
-      "Number": "26500",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linear Algebra",
-      "CreditHours": 3.0,
-      "Description": "Evening Exams Required."
-    },
-    {
-      "Id": "d6f5a3f3-c9c0-413a-8832-d34614755f55",
-      "Number": "15300",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "College Algebra",
-      "CreditHours": 3.0,
-      "Description": "Supplemental Instruction (SI) study sessions are available for students in this course.  Prerequisite option \u201cSATR\u201d means \"recent SAT score\u201d, while \u201cSAT\u201d means \u201cSAT score earned prior to March 2016.\u201d"
-    },
-    {
-      "Id": "af436fd9-0aa7-402e-89ef-e3e866c325a4",
-      "Number": "35100",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Elementary Linear Algebra",
+      "Id": "c0879734-198a-44c8-b708-aa3f8872dcb8",
+      "Number": "60200",
+      "SubjectId": "a937eb53-f770-4ebe-a423-f9d6276f8d2d",
+      "Title": "Contemporary Issues In American Studies",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "82cad37b-d6f4-402d-9b4b-6fba750e6527",
-      "Number": "35301",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linear Algebra II",
+      "Id": "f6d8ea81-d19c-414d-a18b-8755dc5e071d",
+      "Number": "49300",
+      "SubjectId": "753684e4-5cdd-425e-b41f-0dbfdf7666bf",
+      "Title": "Contemporary Issues Capstone",
+      "CreditHours": 1.0,
+      "Description": ""
+    },
+    {
+      "Id": "1344930e-381b-4bc1-99b5-d90f6fd5aaf8",
+      "Number": "22600",
+      "SubjectId": "2061f8c4-68b2-4e11-9e29-8d3db0ff2289",
+      "Title": "Contemporary Women's Health",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "66031161-b7ae-4f39-be62-bb70a5c6c0a5",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Geometry",
+      "Id": "f153b99e-5854-447d-bfc3-ddb453afe2c9",
+      "Number": "59000",
+      "SubjectId": "81ebef7c-c00a-4f71-b678-2cb9a1368717",
+      "Title": "Contemporary Art",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "059b5d56-43da-4b37-a559-8583b7e712c6",
-      "Number": "69000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Grobner Bases Commutat Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "6ed11c4f-1ea4-4a46-a2da-67d9dfbd1150",
-      "Number": "69600",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Complex Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "5df0d0d7-62ee-4c63-9673-ddd1af171985",
-      "Number": "65000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Commutative Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "d3bfed5c-f8da-4c9e-9aa5-2680c4411fb5",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Number Theory",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "be1cb084-8a6b-459c-bc84-414e220ed751",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Commutative Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "1879b8e1-1265-4118-8a1a-1a8c2d1f240e",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Foundations Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "497fe5df-2ccd-4177-872a-ad904e18d439",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "69c9d93e-c111-4269-9cbf-3696fc68ae5a",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linear Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "3e692de5-5238-4a67-8ab1-947ec5aaddb6",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Interactions Algebra Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "ef5c7b22-f32e-440a-92e3-89ef5df11925",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Algebraic Topology",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "a6118f29-5632-41c2-a933-a5f37c8b1e96",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "694b16da-f600-4bf6-a903-1282ee4c358b",
-      "Number": "57200",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Introduction In Algebraic Topology",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "1f921104-2439-428b-b300-696f1b2c697d",
-      "Number": "55800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Abstract Algebra II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "ae2fca95-5e56-4cdb-8d0a-63556d6ca5b1",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Real Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "6bc87aa8-1abb-4c8e-94a4-b47bd30b2762",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Infinite Dimension Lie Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "dda5ffc1-9b56-4042-93db-38ca443c80d1",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Geometry II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "b4e10091-5fc2-457c-b8fc-fd701c925715",
-      "Number": "69000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Commutative Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "d338e374-0749-465a-bbc8-6a351745701c",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Reductive Algebraic Group",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "d8c9c912-61d1-463c-9dc3-ebf37173f2de",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Intrmediate Algebraic Topology",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "44a4e209-e5f5-4f70-9bef-439a84f05591",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Intrmediate Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "86ab13d7-e490-40ea-9e8f-a97028610476",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Group",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "761f33d7-bb8c-44f9-83de-42130a06b49d",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Intro Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": "This course has been identified for the Fall 2020 Online Catalog that will serve students who are pursuing the fully online option. The fully online option serves students who cannot or choose not to come to campus for Fall 2020."
-    },
-    {
-      "Id": "2299ce71-b2e8-474e-af65-31453e3cf105",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Algebra And Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "58b62eb4-7d21-467c-931c-4eff9594f7d6",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "KK And C-Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "61957ec6-227e-4a56-90f0-64046874b4c0",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Geom",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "7a703365-d268-4d24-88fe-26192ec9d273",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Geometry Part II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "4a4ca96c-de62-4714-8320-1f397699ab7f",
-      "Number": "53500",
+      "Id": "d4fcb48c-9b22-4ad5-9207-65d8cc601556",
+      "Number": "68200",
       "SubjectId": "31ac327b-4ff3-4604-9ed1-03a90af3529c",
-      "Title": "Teaching And Learning Algebra And Functions",
+      "Title": "Contemporary Curriculum Theory",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "801b138d-0579-42d6-b9fa-0011e42346d6",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebra Seminar",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "fc06f33c-1bd6-4a1c-baca-6d534b1abac0",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Introductory Algebraic Geomtry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "9d90f3d9-32f3-4bec-aa08-e3d527c33551",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Operator Algebras Group Theory",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "a3cd728f-d79d-4dab-aff1-83279713b26c",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Abstract Algebra W Application",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "cf24cf1d-1adc-4ad8-99f6-b4ccadbfa656",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Topology",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "0fa363fa-f2c0-4b6c-8503-e7564d6163d1",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Type III Von Neumann Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "c20acbfa-177e-4bc6-bb4f-be5b1cbee002",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Operator Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "9a8ae2c7-e22c-4296-909f-ec07fc05fc20",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Introduction To C-Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "b759aca7-ee7c-41b1-ac0e-78b436312804",
-      "Number": "58400",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Number Theory",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "9bc5afac-312a-476b-9344-d0177af6f189",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Advanced Matrix Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "03ed73a5-b964-4827-b036-ffce9a04c553",
-      "Number": "59000",
-      "SubjectId": "12107feb-cfbb-4c63-9527-b992b659109f",
-      "Title": "Algebraic Method Of Qft",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "d2ab35b6-c715-4268-9d51-bc08184ab19e",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Koszul Duality Quadr Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "68a0d7d5-648c-46e2-a542-fb5334e73af4",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Groups Repr Theory",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "964a22a5-dd33-4a2e-b3bc-839871677e6c",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linear Algebraic Groups I",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "b44642e0-7bda-46da-a29c-f8dd5373eba7",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linear Algebraic Groups II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "85c3442b-531a-4931-88f5-e9425a721742",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Adv Topics Commutative Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "8f24e833-6093-49c1-96ff-939811f964f6",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics Commutative Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "f8da547a-f465-41f9-9c29-7b0d144911ec",
-      "Number": "69000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Intro To Algebraic Geometry II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "f3056f40-3635-433f-938f-80ebd95a00cc",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Discussions In Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "bc24bedb-2231-42b0-85b8-0575db9c17e4",
-      "Number": "35300",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linear Algebra II With Applications",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "dfe5120a-3521-4a5c-bc2c-de3ecaa36adb",
-      "Number": "69000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Groebner Bases In Comm Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "d1a36e00-338f-49a0-b67b-31d32b7ba36b",
-      "Number": "66500",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "5a2dc0b1-556c-4ddf-9440-edf46c3c7818",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linkage And Rees Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "bd7d11a8-8668-4346-8647-7269483d18fb",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Topology II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "e39693d0-257f-4bb3-98ab-3731b591c682",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Homological Mthds Comm Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "dd1fd103-cae1-4279-aab2-a3c46672ff0a",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Randomized Numeric Lin Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "6ef1ff37-a3e2-4638-8610-3a029e75c052",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Basic Algebraic Geometry II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "b3fde9e6-138a-45ef-bac0-853f9a79e00d",
-      "Number": "59000",
-      "SubjectId": "7c0ec82f-fe5d-466a-8816-db7d85a79ee8",
-      "Title": "Random Algo Num Linear Algebra",
-      "CreditHours": 3.0,
-      "Description": "Will cover the theory and practice of randomized algorithms for numerical linear algebra problems (RandNLA) suitable for large-scale matrix problems arising in modern, massive, data analytics. https://www.cs.purdue.edu/academic-programs/docs/cs59000RND.pdf"
-    },
-    {
-      "Id": "2fd47743-6c6b-451b-a720-c3d4f0cd7882",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Operator Algebras II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "b01a16bb-110a-44ed-a83a-499307478ab5",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Algebraic Groups",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "9ff286e4-5d20-4b8c-ad9e-2bc80071e038",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Gemetry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "89e465d2-8ad8-4df5-a2ce-b5e4deea8da5",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Varieties",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "351b4a54-8caa-4ab1-aa5b-39f780835c60",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Advanced Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "47e5e2ab-30d1-49a3-92e0-67bf3d50c972",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Intro To Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "2c6cb949-329d-4b69-b4df-0476cc965332",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "C*-Algebras III",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "3060f16d-22f5-4e87-84e9-70ddccbb345c",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Research Operator Algebras I",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "3c161740-37d3-41d7-8a6a-1144f33e2a0c",
-      "Number": "69300",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebra Of Zeta Function",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "5b169dd2-5209-41dc-a938-03a2fea2f019",
-      "Number": "69000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Rep Theory Lie Groups Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "33b4d4d5-6d66-466d-8180-150cc56ab03e",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Advanced Linear Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "bfbc7449-4cdb-43d9-8e34-af1a601b960b",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Adv Topics In Algebraic Groups",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "d5161fb6-bd02-4ef6-898b-0e2b0ef44142",
-      "Number": "15300",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebra And Trigonometry I",
-      "CreditHours": 3.0,
-      "Description": "Supplemental Instruction (SI) study sessions are available for students in this course. Evening Exams Required."
-    },
-    {
-      "Id": "7fd25378-7d6a-494a-944a-e147228ee891",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Geom Sheaf Theory",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "21f380f9-8e7e-4b5d-98da-dc72660c0fd5",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "C*-Algebras II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "a6be4ba9-a935-4a21-b257-20c6f7a9f2cd",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Surfaces",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "f7d555af-4a0f-4fe3-ac31-8ff22967004d",
-      "Number": "51501",
-      "SubjectId": "7c0ec82f-fe5d-466a-8816-db7d85a79ee8",
-      "Title": "Parallelism In Numerical Linear Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "5e5b2cf1-92a4-4f41-922e-d858fb422f52",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Homological Meth Comm Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "423b5ea3-9c42-4bf7-b147-895d1b62fd52",
-      "Number": "69300",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Von Neumann Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "036913ef-813f-4f81-a119-5dab829b4c3a",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Pos In Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "de7d16b6-004b-454e-8aab-9f80fcf150c4",
-      "Number": "69000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Real Algebraic Geom",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "13691c52-2208-467c-9713-98d563457436",
-      "Number": "15400",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebra And Trigonometry II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "2bb61fa5-845e-4a86-afa3-1488d4f207ab",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Complex Algebraic Surfaces",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "9cc6d603-7bd3-475b-a374-943dbd5ea5fe",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "C* Algebras & Operator Theory",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "1cd421f5-6633-4706-80ef-ab7e7e0fcb98",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Homological Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "36e13a17-7e36-440b-8674-0769aecf96eb",
-      "Number": "19000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Intro To Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "a07916a7-aca9-41d1-be01-a48d11979e5f",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Derived Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "843e8fd4-efad-486a-87b5-7fe5e6cdb4bf",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Hopf Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "1df4c2b5-8be5-47f4-b242-c7d15d98b2d5",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Algebraic Geom",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "95fb75d2-fbce-4488-816f-5a183d1999b5",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Reasearch In Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "309e256b-2563-4c15-b2ac-937b8579d183",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Groups",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "110c40e4-755a-4966-8848-47ece5471fab",
-      "Number": "39000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Applications Of Lie Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "473288c7-8e5f-46b5-86e6-a0eed294cce5",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Invariants Of C-Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "82ac5c1b-50b6-4af2-a9e4-c9b9edb94826",
-      "Number": "15200",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "College Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "76d2447c-f71c-4650-8dca-3bb6386055a4",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Using Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "3db34dd2-2683-4aea-b399-008839cc5189",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Structures In Top",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "a923a463-a015-450c-9683-1a3393060c57",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Classification Of C Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "39f439d4-1cb6-462d-bf12-3ee95d993d15",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Useful Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "b99a7539-b7d2-4784-8016-31887d6633cc",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Useful Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "19e575b4-a55c-4563-bf13-a0c29579ff5c",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Real Algebraic Geome Try",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "a69a2725-7324-4b68-a83e-5ab9c8da5719",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "C* Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "c20c0fb9-f49a-402b-a904-872c818cd33a",
-      "Number": "11100",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebra",
-      "CreditHours": 3.0,
-      "Description": "Evening Exams Required"
-    },
-    {
-      "Id": "f446a655-6b7a-411b-92d2-802c3f9db2ff",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Introduction To C Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "e325dacd-d27e-46a6-ab17-27066a006e65",
-      "Number": "69000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Linear Algebraic Groups",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "bd9894af-908f-4fb4-b7fe-abc3127780b0",
-      "Number": "66400",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Curves And Functions II",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "008f1669-43cf-40e6-8556-e264a1d0c8c1",
-      "Number": "66300",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Curves And Functions I",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "4969fb72-0e4e-4c5a-a0c0-9e7e39ade07e",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Commutative Algebra III",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "4f916284-9c50-4948-b91a-e6701f0b81d5",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Sparse Numer Linear Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "f4c9645a-b514-4299-90d6-2655d6fcbd9a",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Chapters Algebraic Geometry",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "d0bda5e9-cc23-43d0-8cb6-4fe911c02027",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "chapters Algebraic Topology",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "b0beca73-8c51-48bf-87e3-29007a39b2f9",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Rep Theory Lie Algebras & Grps",
-      "CreditHours": 3.0,
-      "Description": "Representation Theory of Lie Algebras and Lie Groups"
-    },
-    {
-      "Id": "30785389-8274-4c69-aa4a-770b5dbfa8f8",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic K-theory",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "6dbb9e7d-22bc-4e17-bd25-7314a24bd6a3",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Group von Neumann Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "52804c4f-ff4c-4d48-a04c-fa8742575d31",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Group Von Neumann Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "3fddb87a-f3e6-4eb7-9bfe-35aa0a28bd71",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Topology",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "a563b6cb-83ac-4671-9b65-0defb20baf50",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Intro to Operator Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "bfad1e97-0c1a-4539-a13b-3463dd36d430",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Intro To Operator Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "f6bf9578-e945-408f-b35d-a6ee23c5552b",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Topics In Von Neumann Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "252e8a73-e2e3-4d6a-9b4b-5d651c3a0356",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Abstract/Commutative Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "b41754eb-1092-4169-8275-80bfb087e866",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Topology III",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "94965642-77b3-4b85-b834-c4ac9b252e4a",
-      "Number": "49000",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Group Actions And Algebra",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "909dfbf8-ea66-4362-ab44-33fc014d9ac4",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Fund Of Von Neumann Algebras",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "d30e5f8c-3ece-415c-8661-25053e91f610",
-      "Number": "59800",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Algebraic Topology 3",
-      "CreditHours": 3.0,
-      "Description": ""
-    },
-    {
-      "Id": "e56c3981-e133-4b62-9bb6-82d7365d46a3",
+      "Id": "ef94de55-3fe0-437d-b6e5-ba0fb3d337c8",
       "Number": "59500",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Intro To Algebraic Geometry",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary American Fiction",
       "CreditHours": 3.0,
       "Description": ""
     },
     {
-      "Id": "c186e525-9716-4a5b-b50c-ea7f467d816e",
-      "Number": "59500",
-      "SubjectId": "939c74b7-d2d5-4a4c-958e-c4d008c256b6",
-      "Title": "Lie Algebras",
+      "Id": "36892c73-7b53-4e7c-b8bd-3e04eccb3b42",
+      "Number": "59000",
+      "SubjectId": "75894975-0bc1-44b6-8151-8c67503cc656",
+      "Title": "Contemporary Metaphysics",
       "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "2a4af9fa-3dbe-4362-845c-d3b223ee1e2c",
+      "Number": "59000",
+      "SubjectId": "483bdfb6-ebb6-447b-8ef7-57acf1c7f54a",
+      "Title": "Contemporary African Am Lit",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "9d57f0bd-bf9c-41e3-987e-082878025f97",
+      "Number": "41100",
+      "SubjectId": "dd53ab61-9ded-4e6b-9665-fa7de9d9151d",
+      "Title": "Contemporary Problems In Applied Computer Graphics",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "e025c267-f8a1-4844-a5de-18bd9b792199",
+      "Number": "69600",
+      "SubjectId": "f3c66d85-a399-4bc2-8874-f01aa466e782",
+      "Title": "Modeling Contemporary Acclrtrs",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "a650ed2d-16cc-409b-89b0-9674fc02f4c4",
+      "Number": "67800",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary African Am Lit",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "5290a741-cac9-47ea-9428-b51850701c80",
+      "Number": "49800",
+      "SubjectId": "5e60f326-2480-469e-ba2a-8be99ea6445b",
+      "Title": "Contemporary Forest Management",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "e69aeba3-0f8e-47bb-8b37-c8d487eae5b3",
+      "Number": "43200",
+      "SubjectId": "5d79b82c-4a6f-4f6a-a8c3-8de569d39a40",
+      "Title": "Work In Contemporary America",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "914bfbc9-d3a0-4108-8852-1a7573a8ddc5",
+      "Number": "49000",
+      "SubjectId": "3634f493-2f65-444b-a627-56d0f682476a",
+      "Title": "Italian Contemporary Culture",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "7dae60c3-2416-4a69-a3ef-576c756b6972",
+      "Number": "52000",
+      "SubjectId": "5d79b82c-4a6f-4f6a-a8c3-8de569d39a40",
+      "Title": "Work In Contemporary America",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "06b049be-18bc-46b6-bdff-2c4165a3338f",
+      "Number": "54100",
+      "SubjectId": "31ac327b-4ff3-4604-9ed1-03a90af3529c",
+      "Title": "Contemporary Issues In Career And Technical Education",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "abaa283f-256a-4a12-a7f4-06e232e22b45",
+      "Number": "56900",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary Criticism And Theory",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "8b9d5d3d-054d-4594-ac0a-ccbc91caf10a",
+      "Number": "42900",
+      "SubjectId": "5047b1b9-de57-4cba-a651-76c6a140cbc4",
+      "Title": "Contemporary Political Problems",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "a6431066-61ad-46c7-8885-d00ac5373769",
+      "Number": "10601",
+      "SubjectId": "289c3728-a3ab-4d79-81d4-86ce6e0b055d",
+      "Title": "Contemporary Issues In International Public Health",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "12f2ca47-1008-4b61-856d-6ffa371c2474",
+      "Number": "59000",
+      "SubjectId": "2cb88357-a5d0-4ac9-a0dc-0402c80ef68a",
+      "Title": "Contemporary Peruvian Lit",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "a94f4ce1-78c6-4489-85ed-7a7b3655b842",
+      "Number": "69100",
+      "SubjectId": "81ebef7c-c00a-4f71-b678-2cb9a1368717",
+      "Title": "Studies In Contemporary Art",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "ead5c3b8-a33b-4953-8755-591be4537c4c",
+      "Number": "59400",
+      "SubjectId": "35853564-6b6f-4378-a755-0e13de875e42",
+      "Title": "Contemporary Fiction",
+      "CreditHours": 3.0,
+      "Description": "Please contact Marianne Gupta mgupta@purdue.edu for help in registering."
+    },
+    {
+      "Id": "4943f109-b045-4fb3-8066-5124fbec99f6",
+      "Number": "68100",
+      "SubjectId": "55902d43-4632-4204-9876-062f59f11c55",
+      "Title": "Contemporary Issues In Feminist Scholarship",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "69553035-ece1-4e32-84c1-640a2f7464ef",
+      "Number": "48500",
+      "SubjectId": "81ebef7c-c00a-4f71-b678-2cb9a1368717",
+      "Title": "History Of Contemporary Interiors",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "7cc07177-bf43-420a-9506-b037cddb62df",
+      "Number": "58900",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Forms Of Contemporary Fiction",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "8d4264a8-67a6-4866-9d5f-6ff32cdcf056",
+      "Number": "49100",
+      "SubjectId": "753684e4-5cdd-425e-b41f-0dbfdf7666bf",
+      "Title": "Contemporary Issues In An Sci",
+      "CreditHours": 1.0,
+      "Description": ""
+    },
+    {
+      "Id": "5842c34d-c896-4de9-8202-c84eae428f65",
+      "Number": "34000",
+      "SubjectId": "2ed4f3c6-d65c-4a45-8622-8d8d7ddbe658",
+      "Title": "Contemporary Issues In Asian American Studies",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "80477a14-fe18-461a-a34a-372e3468ab87",
+      "Number": "59300",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary British Fiction",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "606993e9-82d0-42d0-8713-2779c4d1f58c",
+      "Number": "59000",
+      "SubjectId": "31ac327b-4ff3-4604-9ed1-03a90af3529c",
+      "Title": "Contemporary Racism",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "0ec81e97-7b1b-4c03-a647-ba9f6244644d",
+      "Number": "40700",
+      "SubjectId": "c96eface-98f3-46a9-b2ff-a1970bf812f2",
+      "Title": "The Development Of Contemporary Anthropological Theory",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "55d9a4c2-114d-42c7-b52b-e923125c9f7c",
+      "Number": "60900",
+      "SubjectId": "5d79b82c-4a6f-4f6a-a8c3-8de569d39a40",
+      "Title": "Seminar On Contemporary China",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "0b7f8c11-5fbd-4c35-978b-b4c9eb39af0c",
+      "Number": "59000",
+      "SubjectId": "2cb88357-a5d0-4ac9-a0dc-0402c80ef68a",
+      "Title": "Contemporary Mexican Lit",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "efb7edc9-618d-43d0-8f2a-8a44d6a3c2d0",
+      "Number": "61700",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary English",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "3538d95d-612d-4210-8d38-901d05fc01fa",
+      "Number": "59000",
+      "SubjectId": "1c17b129-fc9d-48fe-96a8-2c0d9ebc16c7",
+      "Title": "Contemporary Japanese Cinema",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "7438399d-3a00-49a1-8798-41c6fad83840",
+      "Number": "59000",
+      "SubjectId": "2cb88357-a5d0-4ac9-a0dc-0402c80ef68a",
+      "Title": "Contemporary Andean Lit",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "6bd0c8df-3757-4e73-98cc-98a90fb9b556",
+      "Number": "64000",
+      "SubjectId": "81ebef7c-c00a-4f71-b678-2cb9a1368717",
+      "Title": "History Contemporary INTD",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "9a0bfe36-2ced-4a80-912c-830ae37baa47",
+      "Number": "31900",
+      "SubjectId": "75894975-0bc1-44b6-8151-8c67503cc656",
+      "Title": "Classic And Contemporary Marxism",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "0ff1232f-32ce-4d47-b9ca-49de135d4c1e",
+      "Number": "43100",
+      "SubjectId": "75894975-0bc1-44b6-8151-8c67503cc656",
+      "Title": "Contemporary Religious Thought",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "abee7f62-9339-456e-b423-fee45ddc55cc",
+      "Number": "29201",
+      "SubjectId": "45a1484e-9d36-41e5-81d0-ff7afc57dc03",
+      "Title": "Contemporary Issues In Civil Engineering",
+      "CreditHours": 1.0,
+      "Description": ""
+    },
+    {
+      "Id": "9dc1871d-22a5-40f3-b100-cef2b18e68ff",
+      "Number": "23900",
+      "SubjectId": "3634f493-2f65-444b-a627-56d0f682476a",
+      "Title": "Contemporary Foreign Women Writers In Translation",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "6cd216b6-5b79-4be6-8542-12d16cd095a9",
+      "Number": "59000",
+      "SubjectId": "81ebef7c-c00a-4f71-b678-2cb9a1368717",
+      "Title": "History Contemporary Interiors",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "e69389a5-0312-4582-b8aa-24336c149f6c",
+      "Number": "68100",
+      "SubjectId": "9c0d04ff-7eca-48c2-8d5c-c56925436111",
+      "Title": "Contemporary Issues In Feminist Scholarship",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "9e0ade18-4064-41af-8196-43353a946cb9",
+      "Number": "59000",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary World Literature",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "78cf55fc-23f9-4dec-b8ba-345fdb4ab72c",
+      "Number": "59000",
+      "SubjectId": "75894975-0bc1-44b6-8151-8c67503cc656",
+      "Title": "Contemporary French Philosophy",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "b5bd869f-d5e6-47bf-8ec7-8bd4a13b320e",
+      "Number": "65000",
+      "SubjectId": "a937eb53-f770-4ebe-a423-f9d6276f8d2d",
+      "Title": "Contemporary Afr Amer Lit",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "4b3d8c0c-36c2-451a-9dad-c1fe2a768fff",
+      "Number": "58300",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary Afr Amer Lit",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "2d13a4c6-a7c7-4202-80d7-f298ea7b9145",
+      "Number": "59000",
+      "SubjectId": "674ccd24-5262-49fb-a9e1-9a53364d67f1",
+      "Title": "Contemporary Issues In Cons Be",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "b9538e41-f704-4198-bb35-c21b11a1c6c9",
+      "Number": "53200",
+      "SubjectId": "9dc91003-b0d7-42da-be1a-e7c6cec62ee6",
+      "Title": "Contemporary Issues In Transportation Security",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "3b3f923f-2578-4315-9bac-14b0ab68f828",
+      "Number": "59000",
+      "SubjectId": "75894975-0bc1-44b6-8151-8c67503cc656",
+      "Title": "Contemporary Ethics",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "d63f4de5-7fdb-47e6-8603-c2fb93381559",
+      "Number": "33200",
+      "SubjectId": "86a035b9-705d-4899-9301-a44076b4acea",
+      "Title": "Stress Points In Contemporary Families",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "52c469b3-6a17-455a-8820-87d9091f244b",
+      "Number": "62300",
+      "SubjectId": "c3919aeb-acfd-496b-87a4-d6012e6b6087",
+      "Title": "Contemporary Organizational Leadership And Supervision Problems",
+      "CreditHours": 3.0,
+      "Description": "For doctoral students only. Leadership Developement & Assessment"
+    },
+    {
+      "Id": "e9641b6a-6678-4f20-a157-13cd8613f974",
+      "Number": "59000",
+      "SubjectId": "75894975-0bc1-44b6-8151-8c67503cc656",
+      "Title": "Contemporary Rel Thought",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "e796194c-c223-4b57-9e9f-b755878996b2",
+      "Number": "37100",
+      "SubjectId": "483bdfb6-ebb6-447b-8ef7-57acf1c7f54a",
+      "Title": "Issues In Contemporary Africa",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "c7108111-b8e0-44cf-8256-7b13d052f7c9",
+      "Number": "48500",
+      "SubjectId": "81ebef7c-c00a-4f71-b678-2cb9a1368717",
+      "Title": "Hist Contemporary Int-Honors",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "3aa0e1fa-cd5b-4e45-916d-09cc179ecc2c",
+      "Number": "43200",
+      "SubjectId": "86a035b9-705d-4899-9301-a44076b4acea",
+      "Title": "Stress Points In Contemporary Families",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "2ac230b0-8d64-499c-8fb5-dca747af945a",
+      "Number": "29300",
+      "SubjectId": "75894975-0bc1-44b6-8151-8c67503cc656",
+      "Title": "Contemporary Moral Problems",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "de989c4a-554c-42ce-8b4d-da8137af81e1",
+      "Number": "41500",
+      "SubjectId": "b8bc112e-56ca-420b-93e8-5fc1cb4b1989",
+      "Title": "Contemporary Economic Problems And Policies",
+      "CreditHours": 3.0,
+      "Description": ""
+    },
+    {
+      "Id": "e973b1f1-3ef4-43f5-a9ba-c87726a5c78a",
+      "Number": "58200",
+      "SubjectId": "14d9e786-2438-4674-a5ec-63852eee52e6",
+      "Title": "Contemporary Issues - Landscape Architecture",
+      "CreditHours": 2.0,
+      "Description": ""
+    },
+    {
+      "Id": "2ac5a6d5-4b40-4f7f-92a3-8f5d2a348d8f",
+      "Number": "59000",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary Epic Poetry",
+      "CreditHours": 1.0,
+      "Description": ""
+    },
+    {
+      "Id": "3b39bf74-368c-49b1-a1dd-4378574fcb37",
+      "Number": "59000",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary Black Rep",
+      "CreditHours": 1.0,
+      "Description": ""
+    },
+    {
+      "Id": "7f374678-9f3e-489d-a639-ff91262a6d3a",
+      "Number": "59000",
+      "SubjectId": "65118e0d-db77-4887-bb20-c1b1a53357e4",
+      "Title": "Contemporary American Fiction",
+      "CreditHours": 1.0,
+      "Description": ""
+    },
+    {
+      "Id": "db03e629-9da6-496d-ab3a-235a7593df92",
+      "Number": "48100",
+      "SubjectId": "753684e4-5cdd-425e-b41f-0dbfdf7666bf",
+      "Title": "Contemporary Issues In Animal Sciences",
+      "CreditHours": 1.0,
+      "Description": ""
+    },
+    {
+      "Id": "c1cde59a-e1d8-4a16-87c0-27ceff201ead",
+      "Number": "69500",
+      "SubjectId": "fd09d74e-57b9-4a18-9687-bccf3af2720a",
+      "Title": "Contemporary Health Policy",
+      "CreditHours": 1.0,
       "Description": ""
     }
   ]
