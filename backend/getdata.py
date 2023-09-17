@@ -43,11 +43,40 @@ class getData():
     r = req.get(url)
     # print(r.json())
     API_Data = r.json()
-    json_formatted_str = json.dumps(API_Data, indent=2)
-    print(json_formatted_str)
+    #print(API_Data)
+    # data = json.loads(API_Data)
+
+    j = 0
+    for i in API_Data:
+        id = API_Data['value'][j]['SubjectId']
+        print(id)
+        j+=1
+
+
+    # print(API_Data['value'][0]['SubjectId'])
+
+    # json_formatted_str = json.dumps(API_Data, indent=2)
+    # print(json_formatted_str)
+
 
     with open('Output.json', 'w') as json_file:
         json_file.write(json.dumps(API_Data, indent=2))
+
+    subject_names = {}
+    with open('Subjects.json', 'r') as f:
+        data = json.loads(f.read())
+        print(data['value'][0]['Id'])
+        print(data['value'][0]['Abbreviation'])
+
+    l = 0
+    for k in data:
+        subject_id = data['value'][l]['Id']
+        subject_name = data['value'][l]['Abbreviation']
+
+        subject_names[subject_id] = subject_name
+        l += 1
+
+    print(subject_names)
 
     json_file.close()
 
