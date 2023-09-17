@@ -79,10 +79,6 @@ export default function Home() {
             <Filter subjects={subjectsData} currentSubject={currentSubject} changeSubject={onSubjectChange} currentCredits={currentCredits} changeCredits={onCreditChange}/>
           </div>
         </div>
-        <div>
-
-        </div>
-          <SearchBar/>
           <Courses courses={courseData} />
       </main>
   )
