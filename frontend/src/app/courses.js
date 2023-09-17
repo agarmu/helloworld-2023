@@ -19,6 +19,7 @@ function Courses({courses}) {
                                 <span className="text-gray-300 group-hover:text-gray-500">{sprintf('%02d', sNumber)}</span>:&nbsp;
                                 <span className="text-blue-900">{c.title}</span>
                             </p>
+                            <p>Description: <span className="text-black-500">{c.description}</span></p>
                             <p>Credits: <span className="text-blue-500">{c.credits}</span></p>
                         </div>
                     )
